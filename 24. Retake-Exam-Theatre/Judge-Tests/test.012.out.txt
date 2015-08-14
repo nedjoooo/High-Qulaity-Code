@@ -1,0 +1,14 @@
+Error: Theatre does not exist
+Theatre added
+No performances
+Performance added
+(Bella Donna, 20.01.2015 20:30)
+Error: Theatre does not exist
+Theatre added
+No performances
+Performance added
+Performance added
+Error: Time/duration overlap
+Error: Time/duration overlap
+(Fast Art, 12.01.2015 19:00), (Special Dances, 12.01.2015 22:00)
+(Bella Donna, 20.01.2015 20:30)

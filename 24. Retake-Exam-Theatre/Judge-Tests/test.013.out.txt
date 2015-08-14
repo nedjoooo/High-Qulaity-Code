@@ -1,0 +1,64 @@
+No performances
+Theatre added
+Performance added
+Error: Time/duration overlap
+Error: Time/duration overlap
+Error: Time/duration overlap
+Error: Time/duration overlap
+(Bella Donna, NDK Hall 1, 20.01.2015 20:30)
+Theatre added
+Performance added
+Theatre added
+Performance added
+Theatre added
+Error: Theatre does not exist
+Theatre added
+Performance added
+(Bella Donna, 20.01.2015 20:30)
+(Long Story, Another Theatre, 18.01.2015 18:00), (Hamlet, Art Zone, 11.01.2015 19:00), (Bella Donna, NDK Hall 1, 20.01.2015 20:30), (Bella Donna2, Theatre 199, 20.01.2015 21:45)
+Error: Duplicate theatre
+(Bella Donna, 20.01.2015 20:30)
+Error: Theatre does not exist
+(Bella Donna, 20.01.2015 20:30)
+Error: Theatre does not exist
+(Long Story, Another Theatre, 18.01.2015 18:00), (Hamlet, Art Zone, 11.01.2015 19:00), (Bella Donna, NDK Hall 1, 20.01.2015 20:30), (Bella Donna2, Theatre 199, 20.01.2015 21:45)
+Theatre added
+No performances
+Performance added
+Error: Theatre does not exist
+Error: Theatre does not exist
+Performance added
+(Short Story, 12.01.2015 20:10), (Special Dances, 12.01.2015 22:00)
+(Long Story, Another Theatre, 18.01.2015 18:00), (Hamlet, Art Zone, 11.01.2015 19:00), (Bella Donna, NDK Hall 1, 20.01.2015 20:30), (Short Story, NDK Hall 2, 12.01.2015 20:10), (Special Dances, NDK Hall 2, 12.01.2015 22:00), (Bella Donna2, Theatre 199, 20.01.2015 21:45)
+(Long Story, Another Theatre, 18.01.2015 18:00), (Hamlet, Art Zone, 11.01.2015 19:00), (Bella Donna, NDK Hall 1, 20.01.2015 20:30), (Short Story, NDK Hall 2, 12.01.2015 20:10), (Special Dances, NDK Hall 2, 12.01.2015 22:00), (Bella Donna2, Theatre 199, 20.01.2015 21:45)
+Error: Duplicate theatre
+Error: Time/duration overlap
+Error: Time/duration overlap
+Performance added
+Error: Time/duration overlap
+Performance added
+(Long Story, Another Theatre, 18.01.2015 18:00), (Hamlet, Art Zone, 11.01.2015 19:00), (Long Story, NDK Hall 1, 20.01.2015 08:00), (Bella Donna, NDK Hall 1, 20.01.2015 20:30), (Short Story, NDK Hall 2, 12.01.2015 20:10), (Special Dances, NDK Hall 2, 12.01.2015 22:00), (Bella Donna, NDK Hall 2, 20.01.2015 01:45), (Bella Donna2, Theatre 199, 20.01.2015 21:45)
+Error: Duplicate theatre
+Performance added
+Error: Duplicate theatre
+Error: Time/duration overlap
+Error: Duplicate theatre
+Performance added
+Error: Duplicate theatre
+Performance added
+(Long Story, 20.01.2015 08:00), (Bella Donna, 20.01.2015 20:30)
+(Long Story, Another Theatre, 18.01.2015 18:00), (Long Story, Another Theatre, 20.01.2015 18:00), (Hamlet, Art Zone, 11.01.2015 19:00), (Hamlet, Art Zone, 20.01.2015 19:00), (Long Story, NDK Hall 1, 20.01.2015 08:00), (Bella Donna, NDK Hall 1, 20.01.2015 20:30), (Short Story, NDK Hall 2, 12.01.2015 20:10), (Special Dances, NDK Hall 2, 12.01.2015 22:00), (Bella Donna, NDK Hall 2, 20.01.2015 01:45), (Short Story, New Theatre, 20.01.2015 21:00), (Bella Donna2, Theatre 199, 20.01.2015 21:45)
+Error: Duplicate theatre
+(Long Story, 20.01.2015 08:00), (Bella Donna, 20.01.2015 20:30)
+Error: Time/duration overlap
+(Long Story, 20.01.2015 08:00), (Bella Donna, 20.01.2015 20:30)
+(Short Story, 12.01.2015 20:10), (Special Dances, 12.01.2015 22:00), (Bella Donna, 20.01.2015 01:45)
+(Long Story, Another Theatre, 18.01.2015 18:00), (Long Story, Another Theatre, 20.01.2015 18:00), (Hamlet, Art Zone, 11.01.2015 19:00), (Hamlet, Art Zone, 20.01.2015 19:00), (Long Story, NDK Hall 1, 20.01.2015 08:00), (Bella Donna, NDK Hall 1, 20.01.2015 20:30), (Short Story, NDK Hall 2, 12.01.2015 20:10), (Special Dances, NDK Hall 2, 12.01.2015 22:00), (Bella Donna, NDK Hall 2, 20.01.2015 01:45), (Short Story, New Theatre, 20.01.2015 21:00), (Bella Donna2, Theatre 199, 20.01.2015 21:45)
+Error: Duplicate theatre
+(Short Story, 12.01.2015 20:10), (Special Dances, 12.01.2015 22:00), (Bella Donna, 20.01.2015 01:45)
+Error: Time/duration overlap
+Error: Theatre does not exist
+Error: Time/duration overlap
+Error: Time/duration overlap
+(Short Story, 12.01.2015 20:10), (Special Dances, 12.01.2015 22:00), (Bella Donna, 20.01.2015 01:45)
+(Long Story, Another Theatre, 18.01.2015 18:00), (Long Story, Another Theatre, 20.01.2015 18:00), (Hamlet, Art Zone, 11.01.2015 19:00), (Hamlet, Art Zone, 20.01.2015 19:00), (Long Story, NDK Hall 1, 20.01.2015 08:00), (Bella Donna, NDK Hall 1, 20.01.2015 20:30), (Short Story, NDK Hall 2, 12.01.2015 20:10), (Special Dances, NDK Hall 2, 12.01.2015 22:00), (Bella Donna, NDK Hall 2, 20.01.2015 01:45), (Short Story, New Theatre, 20.01.2015 21:00), (Bella Donna2, Theatre 199, 20.01.2015 21:45)

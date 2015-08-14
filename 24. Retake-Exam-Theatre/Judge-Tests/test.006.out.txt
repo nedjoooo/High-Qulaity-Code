@@ -1,0 +1,2 @@
+Error: Theatre does not exist
+Error: Theatre does not exist

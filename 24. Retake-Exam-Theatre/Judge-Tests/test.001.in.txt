@@ -1,0 +1,2 @@
+AddTheatre(NDK Hall 1)
+AddTheatre(NDK Hall 2)

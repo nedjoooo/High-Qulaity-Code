@@ -1,0 +1,3 @@
+Theatre added
+Theatre added
+Error: Duplicate theatre

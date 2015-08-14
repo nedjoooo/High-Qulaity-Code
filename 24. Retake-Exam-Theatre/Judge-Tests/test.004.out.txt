@@ -1,0 +1,9 @@
+No theatres
+Theatre added
+Theatre added
+NDK Hall 2, Theatre 199
+Theatre added
+NDK Hall 1, NDK Hall 2, Theatre 199
+Theatre added
+Error: Duplicate theatre
+NDK Hall 1, NDK Hall 2, Theatre 199, Theatre Sofia

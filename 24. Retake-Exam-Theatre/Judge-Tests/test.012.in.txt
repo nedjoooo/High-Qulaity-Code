@@ -1,0 +1,20 @@
+PrintPerformances(NDK Hall 1)
+
+AddTheatre(NDK Hall 1)
+PrintPerformances(NDK Hall 1)
+
+AddPerformance(NDK Hall 1, Bella Donna, 20.01.2015 20:30, 1:20, 12)
+PrintPerformances(NDK Hall 1)
+
+PrintPerformances(NDK Hall 2)
+
+AddTheatre(NDK Hall 2)
+PrintPerformances(NDK Hall 2)
+
+AddPerformance(NDK Hall 2, Special Dances, 12.01.2015 22:00, 2:15, 30.00)
+AddPerformance(NDK Hall 2, Fast Art, 12.01.2015 19:00, 1:00, 30.00)
+AddPerformance(NDK Hall 2, Long Story, 12.01.2015 09:00, 10:00, 30.00)
+AddPerformance(NDK Hall 2, Short Story, 12.01.2015 22:10, 0:10, 30.00)
+PrintPerformances(NDK Hall 2)
+
+PrintPerformances(NDK Hall 1)

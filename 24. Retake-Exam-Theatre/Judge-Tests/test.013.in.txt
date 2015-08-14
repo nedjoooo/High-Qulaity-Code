@@ -1,0 +1,97 @@
+PrintAllPerformances()
+
+AddTheatre(NDK Hall 1)
+AddPerformance(NDK Hall 1, Bella Donna, 20.01.2015 20:30, 1:30, 12)
+
+AddPerformance(NDK Hall 1, Hamlet, 20.01.2015 19:00, 1:45, 8.50)
+AddPerformance(NDK Hall 1, Bella Donna, 20.01.2015 21:45, 2:00, 10)
+AddPerformance(NDK Hall 1, Short Story, 20.01.2015 21:00, 21:20, 5)
+AddPerformance(NDK Hall 1, Long Story, 20.01.2015 18:00, 5:30, 50)
+
+PrintAllPerformances()
+
+AddTheatre(Art Zone)
+AddPerformance(Art Zone, Hamlet, 11.01.2015 19:00, 1:45, 8.50)
+
+AddTheatre(Theatre 199)
+AddPerformance(Theatre 199, Bella Donna2, 20.01.2015 21:45, 2:00, 10)
+
+AddTheatre(New Theatre)
+AddPerformance(New Theatre2, Short Story, 20.01.2015 21:00, 21:20, 5)
+
+AddTheatre(Another Theatre)
+AddPerformance(Another Theatre, Long Story, 18.01.2015 18:00, 5:30, 50)
+
+PrintPerformances(NDK Hall 1)
+
+PrintAllPerformances()
+
+AddTheatre(NDK Hall 1)
+PrintPerformances(NDK Hall 1)
+
+AddPerformance(NDK Hall 12, Bella Donna, 20.01.2015 20:30, 1:20, 12)
+PrintPerformances(NDK Hall 1)
+
+PrintPerformances(NDK Hall 2)
+
+PrintAllPerformances()
+
+AddTheatre(NDK Hall 2)
+PrintPerformances(NDK Hall 2)
+
+AddPerformance(NDK Hall 2, Special Dances, 12.01.2015 22:00, 2:15, 30.00)
+AddPerformance(NDK Hall 3, Fast Art, 12.01.2015 21:00, 1:00, 30.00)
+AddPerformance(NDK Hall 3, Long Story, 12.01.2015 19:00, 10:00, 30.00)
+AddPerformance(NDK Hall 2, Short Story, 12.01.2015 20:10, 0:10, 30.00)
+PrintPerformances(NDK Hall 2)
+
+PrintAllPerformances()
+
+PrintAllPerformances()
+
+AddTheatre(NDK Hall 1)
+AddPerformance(NDK Hall 1, Bella Donna, 20.01.2015 20:30, 1:30, 12)
+
+AddPerformance(NDK Hall 1, Hamlet, 20.01.2015 19:00, 1:45, 8.50)
+AddPerformance(NDK Hall 2, Bella Donna, 20.01.2015 01:45, 2:00, 10)
+AddPerformance(NDK Hall 1, Short Story, 20.01.2015 01:00, 21:20, 5)
+AddPerformance(NDK Hall 1, Long Story, 20.01.2015 08:00, 5:30, 50)
+
+PrintAllPerformances()
+
+AddTheatre(Art Zone)
+AddPerformance(Art Zone, Hamlet, 20.01.2015 19:00, 1:45, 8.50)
+
+AddTheatre(Theatre 199)
+AddPerformance(Theatre 199, Bella Donna, 20.01.2015 21:45, 2:00, 10)
+
+AddTheatre(New Theatre)
+AddPerformance(New Theatre, Short Story, 20.01.2015 21:00, 21:20, 5)
+
+AddTheatre(Another Theatre)
+AddPerformance(Another Theatre, Long Story, 20.01.2015 18:00, 5:30, 50)
+
+PrintPerformances(NDK Hall 1)
+
+PrintAllPerformances()
+
+AddTheatre(NDK Hall 1)
+PrintPerformances(NDK Hall 1)
+
+AddPerformance(NDK Hall 1, Bella Donna, 20.01.2015 20:30, 1:20, 12)
+PrintPerformances(NDK Hall 1)
+
+PrintPerformances(NDK Hall 2)
+
+PrintAllPerformances()
+
+AddTheatre(NDK Hall 2)
+PrintPerformances(NDK Hall 2)
+
+AddPerformance(NDK Hall 2, Special Dances, 12.01.2015 22:00, 2:15, 30.00)
+AddPerformance(NDK Hall 3, Fast Art, 12.01.2015 21:00, 1:00, 30.00)
+AddPerformance(NDK Hall 2, Long Story, 12.01.2015 19:00, 10:00, 30.00)
+AddPerformance(NDK Hall 2, Short Story, 12.01.2015 20:10, 0:10, 30.00)
+PrintPerformances(NDK Hall 2)
+
+PrintAllPerformances()

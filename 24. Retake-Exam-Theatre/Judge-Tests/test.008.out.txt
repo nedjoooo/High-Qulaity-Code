@@ -1,0 +1,11 @@
+Theatre added
+Performance added
+Performance added
+Error: Time/duration overlap
+Theatre added
+Performance added
+Performance added
+Performance added
+Error: Time/duration overlap
+Theatre added
+(Bella Donna, NDK Hall 1, 20.01.2015 20:30), (Hamlet, NDK Hall 1, 05.03.2015 19:00), (Fast Art, NDK Hall 2, 12.01.2015 19:00), (Hollywood Story, NDK Hall 2, 12.01.2015 20:15), (Special Dances, NDK Hall 2, 12.01.2015 22:00)
